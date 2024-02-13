@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cover-letter-gen/static/css/main.c2ef5a9f.css",
+    "main.js": "/cover-letter-gen/static/js/main.34ce28cd.js",
+    "static/js/787.7b2b679e.chunk.js": "/cover-letter-gen/static/js/787.7b2b679e.chunk.js",
+    "index.html": "/cover-letter-gen/index.html",
+    "main.c2ef5a9f.css.map": "/cover-letter-gen/static/css/main.c2ef5a9f.css.map",
+    "main.34ce28cd.js.map": "/cover-letter-gen/static/js/main.34ce28cd.js.map",
+    "787.7b2b679e.chunk.js.map": "/cover-letter-gen/static/js/787.7b2b679e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ef5a9f.css",
+    "static/js/main.34ce28cd.js"
+  ]
+}

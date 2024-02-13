@@ -53,7 +53,7 @@ function App() {
         params.append(key.trim(), value.trim());
       }
     });
-    copyToClipboard(window.location.origin + "/" + window.location.pathname + "?" + params.toString())
+    copyToClipboard(window.location.origin + window.location.pathname + "?" + params.toString())
   };
   const copyOutput = () => {
     copyToClipboard(output);

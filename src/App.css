@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 10px;
+}
+
+.keyword-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 30%;
+  padding: 10px;
+  background-color: var(--main-blue);
+  color: white;
+}
+
+.toast {
+  z-index: 999;
+}
+
+.button-group {
+  display: block;
+}
